@@ -1,0 +1,46 @@
+const upcomingProjects = [
+{
+  id: 2,
+  slug: "luxury-residences-delhi-meerut-expressway",
+  title: "Luxury Residences",
+  builder: "North India's Leading Listed Developer",
+  location: "Delhi Meerut Expressway",
+  city: "Ghaziabad",
+  price: "₹8,440 / Sq.ft. + ₹20 Floor PLC",
+  configuration: "3 & 4 BHK",
+  area: "2320 - 2950 Sq.ft.",
+  possession: "Launching Soon",
+  status: "Upcoming",
+  image: "/upcoming/upcoming-2.jfif",
+},
+{
+  id: 3,
+  slug: "karyan-group-nh24-2-bhk",
+  title: "Karyan Group NH-24 Residences",
+  builder: "Karyan Group",
+  location: "NH-24",
+  city: "",
+  price: "Starting from ₹58.80 Lakh*",
+  configuration: "2 BHK & 2 BHK + Study",
+  area: "1000 - 1300 Sq.ft.",
+  possession: "Pre-Launch",
+  status: "Upcoming",
+  image: "/upcoming/upcoming-3.jfif",
+},
+{
+  id: 4,
+  slug: "karyan-group-nh24-3-4-bhk",
+  title: "Karyan Group NH-24 Residences",
+  builder: "Karyan Group",
+  location: "NH-24",
+  city: "",
+  price: "Starting from ₹58.80 Lakh*",
+  configuration: "3 & 4 BHK",
+  area: "Approx. 1400 - 2100 Sq.ft.",
+  possession: "Pre-Launch",
+  status: "Upcoming",
+  image: "/upcoming/upcoming-4.jfif",
+}
+];
+
+export default upcomingProjects;
